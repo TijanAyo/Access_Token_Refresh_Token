@@ -1,6 +1,6 @@
 ## Access Token and Refresh Token
 
-<p> This repository was built for an article found [here]()... The purpose of this article is to describe what tokens are, the different types of tokens available, and the fundamental usecases of access tokens and refresh tokens in a simple API.</p>
+This repository was built for an article found on [hashnode](https://tijan.hashnode.dev/access-token-and-refresh-token-a-comprehensive-guide) or [dev.to](https://dev.to/tijan_io/access-token-and-refresh-token-a-comprehensive-guide-40g7)... The purpose of this article is to describe what tokens are, the different types of tokens available, and the fundamental usecases of access tokens and refresh tokens in a simple API.
 
 ## Installation
 1. git clone `https://github.com/TijanAyo/Access_Token_Refresh_Token.git`
